@@ -5,12 +5,19 @@ The Structured Empathy Framework is designed to enable organisations to work alo
 
 The four building blocks are:
 - **Clarity** — Everyone knows what good looks like
+
 Clarity is the anchor of strategic performance. When people can see what good looks like (vividly, simply, and consistently) they can align their decisions and behaviours without constant supervision. Clarity removes ambiguity, reduces friction, and creates a shared language for progress. It turns strategy from an abstract idea into something people can recognise, describe, and commit to.
+
 - **Commitment** — Leaders genuinely want it to happen
+
 Commitment is the emotional and practical fuel of change. It’s not just endorsement; it’s ownership. When leaders demonstrate genuine desire for the strategy to succeed (through prioritisation, resourcing, and visible behaviour) the organisation feels it. Commitment signals seriousness. It creates momentum. And it sets the tone for what matters most.
+
 - **Capacity** — The organisation is able and supported to deliver
+
 Capacity is the organisational muscle that turns intent into movement. It includes followership, skills, time, resources, and the psychological safety to act. Without capacity, even the clearest strategy and strongest leadership commitment stall. When people are supported, equipped, and empowered, they can deliver change with confidence and consistency.
+
 - **Method** — A robust system to make change real
+
 Method is the engine room. It provides structure, repeatability, and discipline. This is where the Structured Empathy Framework fits, ensuring that change is not left to chance. Method turns strategy into a series of understandable, executable steps. It reduces risk, accelerates learning, and ensures that progress is measurable and sustainable.
 
 ## How the Four Conditions Work Together
