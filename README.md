@@ -6,4 +6,5 @@ This GitHub Repo forms the authoriative source for the Structured Empathy Framew
 All contributions are welcome.
 
 More to follow
+
 Contact us via info@fortytwofold.com
