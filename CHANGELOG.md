@@ -1,3 +1,14 @@
+## <small>1.0.9 (2026-01-03)</small>
+
+* fix: correct background of introduction building blocks image. ([9599fdf](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/9599fdf))
+* Add files via upload ([53543ac](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/53543ac))
+* Add files via upload ([40e7709](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/40e7709))
+* Create touchfile ([00aaf48](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/00aaf48))
+* Delete introduction/images/building-blocks-diagram-OLD.png ([04af62f](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/04af62f))
+* Delete introduction/images/building-blocks-diagram.png ([f3ff687](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/f3ff687))
+* Rename building-blocks-diagram.png to building-blocks-diagram-OLD.png ([bbd3506](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/bbd3506))
+* Rename output3.png to building-blocks-diagram.png ([40e1737](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/40e1737))
+
 ## <small>1.0.8 (2026-01-03)</small>
 
 * fix: First release of Contents section ([7a638f4](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/7a638f4))
