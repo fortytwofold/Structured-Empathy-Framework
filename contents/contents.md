@@ -38,7 +38,7 @@ The Structured Empathy Framework is built out into a number of major sections, r
 ### Use Cases
 - Case Studies - what have organisations done?
 - White papers - discussion, pattern and ideas papers
-### 
+### Supporting Information
 - FAQ - Frequently Asked Questions
 - About - Background and supporting information
 - Contributing - how to contribute to the framework
