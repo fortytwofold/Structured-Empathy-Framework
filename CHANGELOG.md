@@ -1,3 +1,10 @@
+## [0.1.5](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.1.4...v0.1.5) (2026-01-05)
+
+
+### Bug Fixes
+
+* Delete legacy release.config.cjs ([43c7bd2](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/43c7bd2b500658fa8d9b169b5ed26e21049982ed))
+
 ## [0.1.4](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.1.3...v0.1.4) (2026-01-05)
 
 
