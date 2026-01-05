@@ -7,10 +7,10 @@
         "releaseRules": [
           { "type": "Major", "release": "major" },
           { "type": "major", "release": "major" },
-        
+
           { "type": "Minor", "release": "minor" },
           { "type": "minor", "release": "minor" },
-        
+
           { "type": "Fix",   "release": "patch" },
           { "type": "fix",   "release": "patch" }
         ]
@@ -21,6 +21,12 @@
       "@semantic-release/changelog",
       {
         "changelogFile": "CHANGELOG.md"
+      }
+    ],
+    [
+      "@semantic-release/git",
+      {
+        "assets": ["CHANGELOG.md"]
       }
     ],
     "@semantic-release/github"
