@@ -1,3 +1,10 @@
+## [0.1.6](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.1.5...v0.1.6) (2026-01-05)
+
+
+### Bug Fixes
+
+* remove legacy release management debt ([e6c27d8](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/e6c27d8fc4fe4c253a6a49a1171156db26be6509))
+
 ## [0.1.5](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.1.4...v0.1.5) (2026-01-05)
 
 
