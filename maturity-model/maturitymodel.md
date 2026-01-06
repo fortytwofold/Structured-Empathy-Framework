@@ -21,4 +21,4 @@ The following table forms a short summary of the maturity model.
   
 The full version of the maturity model expands each field and provides greater insight about what would be anticpated at each level.  
 
-This full version is available to download in either [Excel (xlsx)](./assets/StructuredEmpathyFramework-MaturityModel.xlsx) or [PDF](./assets/StructuredEmpathyFramework-MaturityModel.pdf).  
+This full version is available to download in either [Excel (xlsx)](assets/StructuredEmpathyFramework-MaturityModel.xlsx) or [PDF](assets/StructuredEmpathyFramework-MaturityModel.pdf).  
