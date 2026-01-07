@@ -1,7 +1,7 @@
 ---
 title: Foundation Process 1 - Observation & Evidence Gathering
 ---
-# Foundation Process 1
+## Foundation Process 1
 # Observation & Evidence Gathering
 
 ### Overview  
@@ -32,7 +32,7 @@ To reduce projection, prevent narrative drift, and ensure conversations start fr
 - Using vague or emotionally loaded language  
 - Treating assumptions as facts  
 
-## **When to Use**
+## When to Use
 - Before giving feedback  
 - When conflict emerges  
 - When clarifying misunderstandings  
