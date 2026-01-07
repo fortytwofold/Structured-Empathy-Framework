@@ -1,4 +1,7 @@
-The following **_Definitions_** are used to bring clarity to the Structured Empathy Framework; they aim to bring clarity and set expectations.  They act as an good gateway to exploring the key concepts.  
+---
+title: Definitions
+---
+The following **_Definitions_** are used to bring clarity to the Structured Empathy Framework; they aim to nurture understanding and set expectations.  They act as an good gateway to exploring the key concepts.  
 
 ## Core Terms 
 -	**Structured Empathy** - A disciplined method for understanding others that balances emotional insight with operational clarity. It transforms empathy from a vague sentiment into a repeatable, evidence based practice.
