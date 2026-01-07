@@ -7,7 +7,7 @@ However, there are also a number of deliberately simple, repeatable, and underly
 They ensure that empathy, psychological safety, and clarity are not left to chance, but are enacted through consistent, reliable, and evidence based practice.
 These processes are:
 
-### [1 - Observation & Evidence Gathering](process1-observation&evidencegathering.md)
+### [1 - Observation & Evidence Gathering](./process1-observation&evidencegathering.md)
 A disciplined process for grounding understanding in what is observable rather than what is assumed.  
 It focuses on behaviours, language, context, and patterns, creating a shared factual basis before interpretation begins.
 What it enables:
