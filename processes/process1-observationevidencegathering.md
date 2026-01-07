@@ -4,13 +4,13 @@ title: Foundation Process 1 - Observation & Evidence Gathering
 ## Foundation Process 1
 # Observation & Evidence Gathering
 
-### Overview  
+## Overview  
 Observation & Evidence Gathering is the disciplined practice of grounding understanding in what is *observable*, not what is assumed. It focuses on behaviours, language, context, and patterns to create a shared factual basis before interpretation begins.
 
-### Purpose 
+## Purpose 
 To reduce projection, prevent narrative drift, and ensure conversations start from a stable, shared reality.
 
-### Steps
+## Steps
 1. **Describe what you observed**  
    Focus on words, tone, timing, and context.
 2. **Avoid interpretation**  
@@ -22,12 +22,12 @@ To reduce projection, prevent narrative drift, and ensure conversations start fr
 5. **Invite confirmation or correction**  
    Treat your observations as data, not conclusions.
 
-### Indicators of Good Practice
+## Indicators of Good Practice
 - Statements begin with “I noticed…” rather than “You always…”  
 - Observations are specific, time‑bound, and verifiable  
 - Others recognise the description as accurate  
 
-### Common Failure Modes
+## Common Failure Modes
 - Mixing observation with judgement  
 - Using vague or emotionally loaded language  
 - Treating assumptions as facts  
