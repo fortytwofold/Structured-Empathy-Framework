@@ -1,6 +1,8 @@
 ---
 title: Definitions
 ---
+## Definitions  
+
 The following **_Definitions_** are used to bring clarity to the Structured Empathy Framework; they aim to nurture understanding and set expectations.  They act as an good gateway to exploring the key concepts.  
 
 ## Core Terms 
