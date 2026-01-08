@@ -5,6 +5,7 @@ title: Foundation Processes
 Integrating compassion, empathy and the foundations for psychological safety in organisational processes forms a critical enabler for successful delivery of the Structured Empathy Framework. 
 
 However, there are also a number of deliberately simple, repeatable, and underlying processes - designed to hold under pressure - that rather than forming a part of the organisational operational, HR, or governance processes – are aimed for everyday and ubiquitous use in the way the organisation works ‘on the ground’. 
+
 They ensure that empathy, psychological safety, and clarity are not left to chance, but are enacted through consistent, reliable, and evidence based practice. 
 
 These processes are:
