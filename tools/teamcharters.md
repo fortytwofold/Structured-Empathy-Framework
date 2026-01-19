@@ -7,7 +7,7 @@ Used to bring cohesion and mutual understanding of scope, identity, purpose, ali
 
 ## Structured Empathy Framework Templates for Team Charters
 
-[Team Charter Template 1](teamcharter-template1.md) - Structured and Operationally Focused
+[Team Charter Template 1](teamcharter-template1.md) - Structured and operationally focused
 
 [Team Charter Template 2](teamcharter-template2.md) - Human centered and more narative charter
 
