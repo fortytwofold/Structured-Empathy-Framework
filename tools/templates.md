@@ -7,6 +7,7 @@ This section includes templates that can be used for activities, illustrating di
 
 The templates are a mixture of those that form part of the Structured Empathy Framework content itself, and links to external templates from other organisations and sources.
 
+  
 ## User Manuals
 
 Described in the [User Manual](../processes/process8-usermanualcreationmaintenance.md) foundational process.
@@ -36,12 +37,35 @@ Described in the [User Manual](../processes/process8-usermanualcreationmaintenan
 - [Lily](https://grey-animal-909.notion.site/How-to-work-with-Lily-c5ad60f5b63d42f5b413acfe09b52c1c?pvs=143)
 - [Andy Carolan](https://www.andycarolan.com/usermanual)
 - [Matthew](https://www.manualof.me/s/matthew)
+  
+  
+## Team Charters
 
-## Template for Team Charters
+Used to bring cohesion and mutual understanding of scope, identity, purpose, alignment, and accountability within a team.
 
-[Team Charter Template 1](teamcharter-template1.md)
-[Team Charter Template 2](teamcharter-template2.md)
+### Templates for Team Charters
+
+[Team Charter Template 1](teamcharter-template1.md) - Structured and Operationally Focused
+[Team Charter Template 2](teamcharter-template2.md) - Human centered and more narative charter
 
 #### Other templates
 
-[Team Charter Template](https://emlteambuilding.co.uk/wp-content/uploads/2024/03/Team-Charter-Template.pdf) by EML Team Building
+[Team Charter Template](https://emlteambuilding.co.uk/wp-content/uploads/2024/03/Team-Charter-Template.pdf) by EML Team Building  
+[Team Charter Template](https://asana.com/templates/team-charter) from Asana  
+[Team Charter Template & Guidance](https://www.ppd.admin.cam.ac.uk/leadership-development/team-charter) from University of Cambridge Leadership & Development
+[Team Charter Canvas Workshop Guide](https://www.designabetterbusiness.tools/tools/team-charter-canvas) by Design A Better Business
+[Team Collaboration Canvas](https://pmi.co.uk/knowledge-hub/team-collaboration-canvas/) by PMI - a collaboration centric approach to Team Charters
+
+
+
+## Cross Team Alignment / Negotiation Templates
+
+Described in the [Cross Team Alignment & Boundary Negotiation](../processes/contextualprocess7-crossteamalignmentboundarynegotiation.md) contextual process.
+
+### Templates for workshops / outcome agreements
+
+[Team Alignment Template 1](teamalignment-template1.md)
+[Team Alignment Template 2](teamalignment-template2.md)
+[Team Alignment Template 3](teamalignment-template3.md)
+
+
