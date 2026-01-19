@@ -23,6 +23,8 @@ Prompts individuals to reflect on:
 **Format:** private self‑assessment  
 **Interpretation:** to be used as input to coaching or 1:1 conversations, **_not as performance data_**.
 
+The detailed [Individual Reflection Tool](individualtool.md) page includes extensive questions to prompt reflection.
+
 ### Team Self‑Assessment
 A collective reflection on:
 - How the team communicates  
@@ -32,6 +34,8 @@ A collective reflection on:
 
 **Format:** workshop or asynchronous form  
 **Interpretation:** focus on shared themes rather than individual responses.
+
+The detailed [Team Self-Assessment Tool](teamtool.md) page includes promops for workshops, probing questions, and survey style self-assessment questions.
 
 ---
 
