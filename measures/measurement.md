@@ -52,6 +52,8 @@ Short, frequent check‑ins that track:
 **Format:** 5–10 questions  
 **Interpretation:** trends matter more than single data points.
 
+The [sample indicator survey questionare](indicatorsample.md) can be used to build a suitable survey.
+
 ### Deep‑Dive Surveys
 More comprehensive assessments covering:
 - How well perspectives are understood  
@@ -65,6 +67,7 @@ More comprehensive assessments covering:
 **Format:** Likert scale + open questions  
 **Interpretation:** look for gaps between groups (e.g., leaders vs teams).
 
+The [sample deep-dive survey questionare](deepdivesample.md) can be used to build a suitable survey.
 ---
 
 ## Notes on Interpreting Results
