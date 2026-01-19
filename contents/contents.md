@@ -16,7 +16,7 @@ The Structured Empathy Framework is built out into a number of major sections, r
 - [Foundation Processes](../processes/foundations.md) - key processes provide the underlying foundations
 - [Contextual Processes](../processes/contextual.md) - processes for specific situations, including when things go wrong
 ### Tools
-- [Empathy Map](../tools/empathymap.md) - Structure to develop Empathy for another individual or team
+- [Empathy Map](../tools/empathymap.md) - Structured template to aid development of Empathy for others
 - [User Manuals](../tools/usermanuals.md) - Templates for individual 'User Manuals', including samples
 - [Team Charters](../tools/teamcharters.md) - Templates for team charters
 - [Cross Team Alignment / Negotiation](../tools/teamalignment.md) - Templates for navigating cross team alignment workshops or negotiations
