@@ -30,7 +30,7 @@ The Structured Empathy Framework is built out into a number of major sections, r
 - [Foundations](../theory/foundations.md) - key concepts and theories that underpin the framework
 - [Reading Material](../theory/readinglist.md) - good books to explore the underlying concepts
 - [Case Studies](../theory/casestudies.md) - what have organisations done?
-- [White papers])../theory/whitepapers.md) - discussion, examples and ideas papers
+- [White papers](../theory/whitepapers.md) - discussion, examples and ideas papers
 ### Supporting Information
 - About - background and supporting information
 - Contributing - how to contribute to the framework
