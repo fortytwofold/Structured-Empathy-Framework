@@ -27,8 +27,8 @@ The Structured Empathy Framework is built out into a number of major sections, r
 - [Mechanisms](../accountability/mechanisms.md) - considerations across the organisational design, structures and processes
 - [Breaches](../accountability/breaches.md) - maintaining psychological safety while enforcing standards 
 ### Underpinning Theory
-- Foundations - key concepts and theories that underpin the framework
-- Reading Material - reference materials including books
+- [Foundations](../theory/foundations.md) - key concepts and theories that underpin the framework
+- [Reading Material](../theory/readinglist.md) - Good books to explore the underlying concepts and increase breadth.
 ### Use Cases
 - Case Studies - what have organisations done?
 - White papers - discussion, pattern and ideas papers
