@@ -50,9 +50,9 @@ The following section describes how a Markdown page is created and formatted;  y
 
 Each Markdown file must begin with a title block exactly as this:
 
-    ---
-    title: Page Title
-    ---
+>    ---
+>    title: Page Title
+>    ---
 
 This enables the site generator to both set the title of the page (as seen by the browser and search engines) and apply the correct layout.
 
@@ -60,44 +60,44 @@ This enables the site generator to both set the title of the page (as seen by th
 
 Use `#` symbols. More `#` = smaller heading.
 
-`    # Page Title  
+> # Page Title  
 
-`    ## Section Heading  
+> ## Section Heading  
 
-`    ### Sub‑section  
+> ### Sub‑section  
 
 ### Paragraphs
 
 Write text normally, with a blank line between paragraphs.
 
- `   This is a paragraph.  
-
-`      This is another paragraph.  
+> This is a paragraph.  
+>
+> This is another paragraph.  
 
 ### Bold & Italic
 
-`    **bold text**  
-`    *italic text*  
+> **bold text**  
+> *italic text*  
 
 ### Lists
 
 #### Bullet list
 
-`    - First item  
-`    - Second item  
-`    - Third item  
+>  - First item  
+>  - Second item  
+>  - Third item  
 
 #### Numbered list
 
-`    1. Step one  
-`    2. Step two  
-`    3. Step three  
+>  1. Step one  
+>  2. Step two  
+>  3. Step three  
 
 ### Links
 
 #### External link
 
- `   [Forty Two Fold](https://fortytwofold.com)
+> [Forty Two Fold](https://fortytwofold.com)
 
 #### Link to another page in the framework
 
@@ -105,11 +105,11 @@ Use a **relative path**, starting from the current file. Supporting processes su
 
 Example: linking from `components/empathy-mapping.md` to `introduction/overview.md`:
 
- `   [Overview](../introduction/overview.md)
+> [Overview](../introduction/overview.md)
 
 Example: linking to a page in the same folder:
 
- `   [Glossary](glossary.md)
+> [Glossary](glossary.md)
 
 ### Images
 
@@ -117,18 +117,18 @@ Place images in an 'images/' folder next to your Markdown file. Use relative pat
 
 Example folder:
 
- `   components/
- `     empathy-mapping.md
- `     images/
- `       empathy-map.png
+>  components/
+>    empathy-mapping.md
+>    images/
+>        empathy-map.png
 
 Image syntax:
 
- `   ![Alt text](images/empathy-map.png)
+> ![Alt text](images/empathy-map.png)
 
 ### Quotes
 
- `   > This is a quoted block of text.
+>  > This is a quoted block of text.
 
 ### What *not* to do
 
