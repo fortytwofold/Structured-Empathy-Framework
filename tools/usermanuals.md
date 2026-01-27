@@ -33,6 +33,6 @@ Described in the [User Manual](../processes/process8-usermanualcreationmaintenan
   
 The next page includes templates for [Team Charters](teamcharters.md).
 
-Alternatively, explore the next section looking at leading, lagging, behavioural and interaction [Indicators](../measurement/indicators.md).
+Alternatively, explore the next section looking at leading, lagging, behavioural and interaction [Indicators](../measures/indicators.md).
 
 You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
