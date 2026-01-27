@@ -1,5 +1,5 @@
 ---
-title: Structured Empathy Framework Deep Dive Sample Survey
+title: Structured Empathy Framework - Deep Dive Sample Survey
 ---
 
 # Deep Dive Sample Survey
