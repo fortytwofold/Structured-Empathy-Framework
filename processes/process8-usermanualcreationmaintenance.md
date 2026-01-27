@@ -1,5 +1,5 @@
 ---
-title: Foundation Process 8 - User Manual Creation & Maintenance
+title: Structured Empathy Framework Foundation Process 8 - User Manual Creation & Maintenance
 ---
 ## Foundation Process 8
 # User Manual Creation & Maintenance
@@ -36,3 +36,5 @@ To reduce interpersonal guesswork and accelerate trust by making the implicit ex
 - Team formation  
 - Leadership transitions  
 - Conflict prevention  
+
+Return to the [Foundation Processes](foundations.md) page.
