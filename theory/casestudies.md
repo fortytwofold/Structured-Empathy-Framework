@@ -1,5 +1,5 @@
 ---
-title: Case Studies
+title: Structured Empathy Framework Case Studies
 ---
 # Case Studies  
 ## Evidence in support of the Structured Empathy Framework
@@ -19,3 +19,9 @@ This case study describes how a small corporate lending firm built psychological
 **URL:** [https://publications.ergonomics.org.uk/uploads/Enabling-safety-improvement-by-enhancing-psychological-safety-in-workplace-conversations.pdf](https://publications.ergonomics.org.uk/uploads/Enabling-safety-improvement-by-enhancing-psychological-safety-in-workplace-conversations.pdf)  
 
 This case study explores how a UK rail organisation improved safety performance by redesigning safety conversations to be more open, curious, and non‑punitive. The intervention increased the quality of operational dialogue, strengthened trust with contractors, and enabled earlier identification of real‑world risks.
+
+The next page - [White Papersl](whitepapers.md) - includes discussion, example and ideas papers.
+
+Alternatively, explore the final section with supporting information including [about](../supporting/about.md) the background of the framework.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
