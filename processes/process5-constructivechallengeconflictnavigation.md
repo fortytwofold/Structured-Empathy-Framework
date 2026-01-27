@@ -1,5 +1,5 @@
 ---
-title: Foundation Process 5 - Constructive Challenge & Conflict Navigation
+title: Structured Empathy Framework Foundation Process 5 - Constructive Challenge & Conflict Navigation
 ---
 ## Foundation Process 5
 # Constructive Challenge & Conflict Navigation
@@ -36,3 +36,5 @@ To turn conflict into insight and ensure challenge strengthens decisions rather 
 - When decisions need scrutiny  
 - When behaviour impacts others  
 - When misalignment persists  
+
+Return to the [Foundation Processes](foundations.md) page.
