@@ -92,6 +92,6 @@ What it enables:
 
 The next page - [Contextual Processes](contextual.md) - explores approaches that can be used in those difficult moments, when a positive culture is truly embedded.
 
-Alternatively, explore the next section looking at an [Empathy Map](../tools/empathymaps.md) tools that provides a structured template to aid development of empathy for others.
+Alternatively, explore the next section looking at an [Empathy Map](../tools/empathymaps.md) tool that provides a structured template to aid development of empathy for others.
 
 You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
