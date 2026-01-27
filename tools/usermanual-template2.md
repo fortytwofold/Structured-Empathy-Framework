@@ -1,5 +1,5 @@
 ---
-title: User Manual - Example Template 2
+title: Structured Empathy Framework User Manual - Example Template 2
 ---
 # User Manual - Example Template 2
 
@@ -23,3 +23,5 @@ title: User Manual - Example Template 2
 - I’m known for…
 - I’m still learning…
 - I might surprise you by…
+
+Return to the [User Manuals](usermanuals.md) page.
