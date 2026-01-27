@@ -29,4 +29,4 @@ Explore the next page - [Building Blocks](buildingblocks.md) - exploring the fou
 
 Altneratively, explore the next section including reviewing the [Maturity Model](../maturity-model/maturitymodel.md) that enables organisations to explore what a culture build on psychological safety looks like.
 
-You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
+You can always return to the [Contents Page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
