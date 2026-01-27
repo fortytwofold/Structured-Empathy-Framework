@@ -1,5 +1,5 @@
 ---
-title: Cross Team Alignment Workshop - Example Template 3
+title: Structured Empathy Framework Cross Team Alignment Workshop - Example Template 3
 ---
 # Cross Team Alignment Workshop - Example Template 3
 
@@ -46,3 +46,5 @@ Team B provides:
 ## Review Rhythm
 - How often we revisit this map  
 - Signals that a review is needed sooner  
+ 
+Return to the [Cross Team Alignment](teamalignment.md) page.
