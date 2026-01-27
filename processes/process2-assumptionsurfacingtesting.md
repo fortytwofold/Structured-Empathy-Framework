@@ -1,5 +1,5 @@
 ---
-title: Foundation Process 2 - Assumption Surfacing & Testing
+title: Structured Empathy Framework Foundation Process 2 - Assumption Surfacing & Testing
 ---
 ## Foundation Process 2
 # Assumption Surfacing & Testing
@@ -37,3 +37,5 @@ To prevent misattribution, reduce unnecessary conflict, and improve accuracy in 
 - When something “feels off”  
 - When behaviour contradicts expectations  
 - When clarity is missing  
+
+Return to the [Foundation Processes](foundations.md) page.
