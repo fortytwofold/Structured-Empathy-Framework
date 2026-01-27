@@ -1,15 +1,15 @@
 ---
-title: Definitions
+title: Structured Empathy Framework Definitions
 ---
 ## Definitions  
 
 The following **_Definitions_** are used to bring clarity to the Structured Empathy Framework; they aim to nurture understanding and set expectations.  They act as an good gateway to exploring the key concepts.  
 
-## Core Terms 
+## Core Terms / Definitions
 -	**Structured Empathy** - A disciplined method for understanding others that balances emotional insight with operational clarity. It transforms empathy from a vague sentiment into a repeatable, evidence based practice.
 -	**Psychological Safety** -  A individuals belief that a group is safe for interpersonal risk taking. It enables people to speak up, ask questions, challenge assumptions, and admit mistakes without fear of humiliation or punishment.
 -	**Interpersonal Risk Taking** -  The willingness to say or do something that could expose you to judgement. High psychological safety increases this willingness by reducing the perceived cost of vulnerability.
--	**Error Transparency** - The practice of openly acknowledging mistakes so they can be understood and corrected. It treats errors as data rather than personal failings.
+-	**Mistake Transparency** - The practice of openly acknowledging mistakes so they can be understood and corrected. It treats mistakes as data rather than personal failings.
 -	**Inclusive Participation** -  A climate where contributions from all members are actively welcomed and valued. It prevents dominance by a few voices and ensures diverse perspectives shape decisions.
 -	**Boundary Safe Challenge** - The ability to question decisions, norms, or authority without crossing into disrespect. It balances candour with professionalism.
 -	**Learning Climate** - An environment where experimentation, curiosity, and iteration are encouraged. Psychological safety is the foundation that makes learning behaviours possible.
@@ -43,3 +43,10 @@ The following **_Definitions_** are used to bring clarity to the Structured Empa
 -	**Responsibility vs Blame** - Responsibility is forward looking and constructive; blame is backward looking and punitive. Structured empathy uses responsibility to enable progress.
 -	**Curiosity vs Intrusion** - Curiosity seeks understanding with consent; intrusion seeks information without regard for boundaries. Structured Empathy stays firmly on the curiosity side.
 -	**Honesty vs Brutality** - Honesty communicates truth with care; brutality uses truth as a weapon. Honesty preserves dignity.
+
+
+Explore the next page - [Principles](principles.md) - which considers the key principles that ground the Structured Empathy Framework.
+
+Altneratively, explore the next section including reviewing the [Maturity Model](../maturity-model/maturitymodel.md) that enables organisations to explore what a culture built on psychological safety looks like.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
