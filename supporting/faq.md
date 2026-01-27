@@ -3,7 +3,7 @@ title: Structured Empathy Framework FAQ
 ---
 # Structured Empathy Framework - Frequently Asked Questions (FAQ)
 
-## Please submit questions via [sef@fortyfold.com](sef@fortywtwofold.com).
+## Please submit questions via [sef@fortytwofold.com](mailto:sef@fortytwofold.com).
 
 ### Q: What is the Structured Empathy Framework trying to achieve?
 
