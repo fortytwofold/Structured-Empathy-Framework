@@ -14,3 +14,7 @@ Some have argued that by setting up the Structured Empathy Framework as open sou
 The framework is very much a work in progress, and actively encourage input, change and challenge via the [Open Source project](https://github.com/fortytwofold/Structured-Empathy-Framework/) on Github. For more information on how to contribute and develop the framework, please have a look at the [Contributing](contributing.md) page
 
 Thank you, and we appreciate your use, development and input to the Structured Empathy Framework.
+
+The next page describes how to [contribute](contributing.md) to the framework.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
