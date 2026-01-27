@@ -1,5 +1,5 @@
 ---
-title: Foundation Process 10 - Compassionate Accountability
+title: Structured Empathy Framework Foundation Process 10 - Compassionate Accountability
 ---
 ## Foundation Process 10
 # Compassionate Accountability
@@ -36,3 +36,5 @@ To maintain high standards without fear, blame, or humiliation.
 - Performance concerns  
 - Behavioural issues  
 - Repeated patterns that impact others  
+
+Return to the [Foundation Processes](foundations.md) page.
