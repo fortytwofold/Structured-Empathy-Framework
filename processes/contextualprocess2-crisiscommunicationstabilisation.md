@@ -1,5 +1,5 @@
 ---
-title: Contextual Process 2 - Crisis Communication & Stabilisation
+title: Structured Empathy Framework - Contextual Process 2 - Crisis Communication & Stabilisation
 ---
 ## Contextual Process 2
 # Crisis Communication & Stabilisation
@@ -36,3 +36,5 @@ To stabilise the environment, reduce panic, and create a reliable communication 
 - Outages, failures, or urgent incidents  
 - Organisational shocks or unexpected events  
 - Any moment where uncertainty is high and emotions are elevated
+  
+Return to the [Contextual Processes](contextual.md) page.
