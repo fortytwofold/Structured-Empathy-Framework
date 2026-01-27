@@ -1,5 +1,5 @@
 ---
-title: Deep Dive Sample Survey
+title: Structured Empathy Framework Deep Dive Sample Survey
 ---
 
 # Deep Dive Sample Survey
@@ -81,3 +81,5 @@ All scored questions use a 1–5 scale:
 - What is one behaviour your team could adopt that would improve safety  
 - What is one behaviour your team could stop that would improve safety  
 - What is the most important improvement the organisation could make to strengthen psychological safety  
+
+Return to the [Measurement Methods](measurement.md) page.
