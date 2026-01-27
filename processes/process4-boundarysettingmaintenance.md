@@ -1,5 +1,5 @@
 ---
-title: Foundation Process 4 - Boundary Setting & Maintenance
+title: Structured Empathy Framework Foundation Process 4 - Boundary Setting & Maintenance
 ---
 ## Foundation Process 4
 # Boundary Setting & Maintenance
@@ -36,3 +36,5 @@ To prevent over‑identification, emotional labour, and blurred expectations whi
 - When workload, emotional load, or expectations become unsustainable  
 - When roles or responsibilities blur  
 - When conflict escalates due to unclear limits  
+
+Return to the [Foundation Processes](foundations.md) page.
