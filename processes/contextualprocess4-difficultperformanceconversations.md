@@ -1,5 +1,5 @@
 ---
-title: Contextual Process 4 - Difficult Performance Conversations
+title: Structured Empathy Framework Contextual Process 4 - Difficult Performance Conversations
 ---
 ## Contextual Process 4
 # Difficult Performance Conversations
@@ -36,3 +36,5 @@ To ensure performance issues are handled fairly, consistently, and in a way that
 - Repeated behavioural concerns  
 - Declining performance  
 - Situations requiring clarity and accountability
+
+Return to the [Contextual Processes](contextual.md) page.
