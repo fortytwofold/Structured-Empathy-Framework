@@ -1,5 +1,5 @@
 ---
-title: Maturity Model Level Characteristics
+title: Maturity Model Level Characteristics within the Structured Empathy Framework
 ---
 # Characteristics of Maturity Model levels
 
@@ -98,3 +98,7 @@ Psychological safety becomes a strategic capability; a differentiator that stren
 -	Psychological safety is treated as a strategic asset, not a cultural initiative.
 
 This level is defined by mastery, continuous improvement, and strategic leverage.
+
+The next section considers the [Foundation Processes](../processes/foundations.md) that ensure empathy, psychological safety, and clarity are not left to chance, but are enacted through consistent, reliable, and evidence based practice.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
