@@ -1,5 +1,5 @@
 ---
-title: Empathy Map - Example Template
+title: Structured Empathy Framework Empathy Map - Example Template
 ---
 # Empathy Map - Example Template
 
@@ -56,3 +56,6 @@ title: Empathy Map - Example Template
 - Patterns we notice  
 - Needs that are not being met  
 - Opportunities to support, align, or improve  
+
+
+Return to the [Empathy Maps](empathymaps.md) page.
