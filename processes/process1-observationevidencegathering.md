@@ -1,5 +1,5 @@
 ---
-title: Foundation Process 1 - Observation & Evidence Gathering
+title: Structured Empathy Framework Foundation Process 1 - Observation & Evidence Gathering
 ---
 ## Foundation Process 1
 # Observation & Evidence Gathering
@@ -37,3 +37,5 @@ To reduce projection, prevent narrative drift, and ensure conversations start fr
 - When conflict emerges  
 - When clarifying misunderstandings  
 - When preparing for a difficult conversation  
+
+Return to the [Foundation Processes](foundations.md) page.
