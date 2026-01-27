@@ -1,5 +1,5 @@
 ---
-title: Building Blocks - Four Foundations To Enable High‑Performance Strategy Delivery
+title: Building Blocks - Four Foundations To Enable High‑Performance Strategy Delivery - Structured Empathy Framework
 ---
 ## Building Blocks
 ### Four Foundations To Enable High‑Performance Strategy Delivery
@@ -33,3 +33,10 @@ These four conditions are not independent; they are interlocking forces that cre
 At the centre — where all four conditions overlap — is the outcome every organisation seeks: **A High‑Performing Organisation**
 
 ![Framework diagram](images/building-blocks-diagram.png)
+
+
+The the next page - [Definitions](definitions.md) - explores the core terms, anti-definitions and distinctions to bring the framework to life.
+
+Altneratively, explore the next section including reviewing the [Maturity Model](../maturity-model/maturitymodel.md) that enables organisations to explore what a culture build on psychological safety looks like.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
