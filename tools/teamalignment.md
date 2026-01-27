@@ -13,6 +13,6 @@ Described in the [Cross Team Alignment & Boundary Negotiation](../processes/cont
 
 [Team Alignment Template 3](teamalignment-template3.md) - System Focused template
 
-The next section looks at leading, lagging, behavioural and interaction [Indicators](../measurement/indicators.md).
+The next section looks at leading, lagging, behavioural and interaction [Indicators](../measures/indicators.md).
 
 You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
