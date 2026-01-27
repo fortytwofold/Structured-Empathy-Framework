@@ -1,5 +1,5 @@
 ---
-title: Team Charter Templates
+title: Structured Empathy Framework Team Charter Templates
 ---
 # Team Charter Templates
 
@@ -19,3 +19,8 @@ Used to bring cohesion and mutual understanding of scope, identity, purpose, ali
 [Team Charter Canvas Workshop Guide](https://www.designabetterbusiness.tools/tools/team-charter-canvas) by Design A Better Business  
 [Team Collaboration Canvas](https://pmi.co.uk/knowledge-hub/team-collaboration-canvas/) by PMI - a collaboration centric approach to Team Charters  
 
+The next page - [Cross Team Alignment](teamalignment.md) - provides templates to support navigating cross team alignment workshops or negotiations.
+
+Alternatively, explore the next section looking at leading, lagging, behavioural and interaction [Indicators](../measurement/indicators.md).
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
