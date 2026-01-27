@@ -1,5 +1,5 @@
 ---
-title: Handling Breaches
+title: Structured Empathy Framework - Handling Breaches
 ---
 
 # Handling Breaches  
@@ -116,3 +116,8 @@ Avoid:
 ### Reinforce shared standards
 Psychological safety is not permissiveness.  
 Clear standards, fairly enforced, *increase* safety, quality and performance.
+
+  
+The next section reviews the theory and [foundations](../theory/foundations.md) that underpin the framework.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
