@@ -1,5 +1,5 @@
 ---
-title: Individual Reflection Tool
+title: Structured Empathy Framework - Individual Reflection Tool
 ---
 
 # Individual Reflection Tool
@@ -67,3 +67,5 @@ The aim is not evaluation, but insight: understanding how you show up, what you 
 - What assumptions do I make about how others see me  
 - What would I do differently if I felt completely safe  
 - What is one behaviour I could change that would improve safety for others  
+ 
+Return to the [Measurement Methods](measurement.md) page.
