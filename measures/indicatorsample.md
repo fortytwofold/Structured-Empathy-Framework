@@ -1,5 +1,5 @@
 ---
-title: Indicator Sample Survey
+title: Structured Empathy Framework - Indicator Sample Survey
 ---
 # Indicator Sample Survey
 
@@ -29,3 +29,5 @@ All scored questions use a 1–5 scale:
 - What behaviours or patterns do you notice that support trust  
 - What behaviours or patterns do you notice that undermine trust  
 - What is one improvement that would most strengthen psychological safety in your team  
+
+Return to the [Measurement Methods](measurement.md) page.
