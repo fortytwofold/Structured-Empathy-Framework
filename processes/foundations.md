@@ -1,5 +1,5 @@
 ---
-title: Foundation Processes
+title: Foundation Processes of the Strutured Empathy Framework
 ---
 # Foundation Processes
 Integrating compassion, empathy and the foundations for psychological safety in organisational processes forms a critical enabler for successful delivery of the Structured Empathy Framework. 
@@ -89,3 +89,9 @@ What it enables:
 - Fairness and trust
 - High standards without fear
 - A culture where accountability is constructive
+
+The next page - [Contextual Processes](contextual.md) - explores approaches that can be used in those difficult moments, when a positive culture is truly embedded.
+
+Alternatively, explore the next section looking at an [Empathy Map](../tools/empathymaps.md) tools that provides a structured template to aid development of empathy for others.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
