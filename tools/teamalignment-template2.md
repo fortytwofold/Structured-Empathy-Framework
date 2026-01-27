@@ -1,5 +1,5 @@
 ---
-title: Cross Team Alignment Workshop - Example Template 2
+title: Structured Empathy Framework Cross Team Alignment Workshop - Example Template 2
 ---
 # Cross Team Alignment Workshop - Example Template 2
 
@@ -43,3 +43,6 @@ A conversational template that mirrors the flow of a Structured Empathy focused 
 - What each team is taking away  
 - What we are grateful for  
 - What we will revisit  
+
+ 
+Return to the [Cross Team Alignment](teamalignment.md) page.
