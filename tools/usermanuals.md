@@ -1,5 +1,5 @@
 ---
-title: User Manual Templates
+title: Structured Empathy Framework User Manual Templates
 ---
 # User Manual Templates
 
@@ -31,3 +31,8 @@ Described in the [User Manual](../processes/process8-usermanualcreationmaintenan
 - [Andy Carolan](https://www.andycarolan.com/usermanual)
 - [Matthew](https://www.manualof.me/s/matthew)
   
+The next page includes templates for [Team Charters](teamcharters.md).
+
+Alternatively, explore the next section looking at leading, lagging, behavioural and interaction [Indicators](../measurement/indicators.md).
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
