@@ -99,3 +99,10 @@ Inline with the above, the Structured Empathy Framework rests on several key pri
 - Measurement should support learning and improvement, not punishment.
 
 Fundementally however, the framework is is practice driven: refined through application in complex organisations, programmes, pursuits, and service environments. The intent is not to claim a new theory, but to integrate existing evidence and concepts into a coherent, practical approach that individuals and organisations can use to build high performing, nurturing cultures delivering high performance outcomes.
+
+  
+The next page - [Reading Material](readinglist.md) - provides a list of good books to explore the underlying concepts.
+
+Alternatively, explore the final section with supporting information including [about](../supporting/about.md) the background of the framework.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
