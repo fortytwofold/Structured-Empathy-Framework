@@ -1,5 +1,5 @@
 ---
-title: Contextual Process 8 - Prioritisation & Workload Triage
+title: Structured Empathy Framework Contextual Process 8 - Prioritisation & Workload Triage
 ---
 ## Contextual Process 8
 # Prioritisation & Workload Triage
@@ -36,3 +36,5 @@ To ensure workload decisions are fair, sustainable, and aligned with organisatio
 - Overload or competing deadlines  
 - Shifting organisational priorities  
 - Team uncertainty about what matters most
+
+Return to the [Contextual Processes](contextual.md) page.
