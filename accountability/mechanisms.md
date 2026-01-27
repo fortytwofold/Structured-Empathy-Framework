@@ -1,5 +1,5 @@
 ---
-title: Accountability Mechanisms
+title: Structured Empathy Framework - Accountability Mechanisms
 ---
 
 # Accountability Mechanisms
@@ -117,3 +117,10 @@ Organisational rhythms and rituals should make accountability a continuous, fair
 - early surfacing of risks or tensions  
 - shared understanding of boundaries and responsibilities  
 - review of systemic contributors to recurring issues  
+
+  
+The next page - [Breaches](breaches.md) - which explores the critical aspect of maintaining psychological safety while enforcing standards.
+
+Alternatively, explore the next section reviewing the theory and [foundations](../theory/foundations.md) that underpin the framework.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
