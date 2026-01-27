@@ -1,5 +1,5 @@
 ---
-title: Maturity Model
+title: Structured Empathy Maturity Model
 ---
 # Maturity Model
 
@@ -22,3 +22,10 @@ The following table forms a short summary of the maturity model.
 The full version of the maturity model expands each field and provides greater insight about what would be anticpated at each level.  
 
 This full version is available to download in either [Excel (xlsx)](assets/StructuredEmpathyFramework-MaturityModel.xlsx) or [PDF](assets/StructuredEmpathyFramework-MaturityModel.pdf).  
+
+
+The next page - [Characteristics](characteristics.md) - explores descriptions for each of the maturity model levels, with the associated characteristics, behaviours, systems, and artefacts you would expect to observe. 
+
+Alternatively, explore the next section looking at the [Foundation Processes](../processes/foundations.md) that ensure that empathy, psychological safety, and clarity are not left to chance, but are enacted through consistent, reliable, and evidence based practice.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
