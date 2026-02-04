@@ -7,7 +7,7 @@ title: Structured Empathy Framework FAQ
 
 ### Q: What is the Structured Empathy Framework trying to achieve?
 
-A: The Framework aims to enable organisations to deliver strategy through a culture based on a proactical practical, teachable, and repeatable empathy based model to improve psychological safety. It gives people a shared language and set of tools for understanding one another, reducing friction, and improving collaboration and trust in complex or high‑pressure environments.
+A: The Framework aims to enable organisations to deliver strategy through a culture based on a proactive practical, teachable, and repeatable empathy based model to improve psychological safety. It gives people a shared language and set of tools for understanding one another, reducing friction, and improving collaboration and trust in complex or high‑pressure environments.
 
 ### Q: Who is the Framework for?
 

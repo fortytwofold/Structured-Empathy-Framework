@@ -7,7 +7,7 @@ The following **_Definitions_** are used to bring clarity to the Structured Empa
 
 ## Core Terms / Definitions
 -	**Structured Empathy** - A disciplined method for understanding others that balances emotional insight with operational clarity. It transforms empathy from a vague sentiment into a repeatable, evidence based practice.
--	**Psychological Safety** -  A individuals belief that a group is safe for interpersonal risk taking. It enables people to speak up, ask questions, challenge assumptions, and admit mistakes without fear of humiliation or punishment.
+-	**Psychological Safety** -  An individuals belief that a group is safe for interpersonal risk taking. It enables people to speak up, ask questions, challenge assumptions, and admit mistakes without fear of humiliation or punishment.
 -	**Interpersonal Risk Taking** -  The willingness to say or do something that could expose you to judgement. High psychological safety increases this willingness by reducing the perceived cost of vulnerability.
 -	**Mistake Transparency** - The practice of openly acknowledging mistakes so they can be understood and corrected. It treats mistakes as data rather than personal failings.
 -	**Inclusive Participation** -  A climate where contributions from all members are actively welcomed and valued. It prevents dominance by a few voices and ensures diverse perspectives shape decisions.
@@ -19,7 +19,7 @@ The following **_Definitions_** are used to bring clarity to the Structured Empa
 -	**Assumption Audit** - A deliberate check of the beliefs, shortcuts, and narratives you’re bringing into an interaction. It reduces distortion and increases accuracy in understanding others.
 -	**Emotional Signal vs Emotional State** -  A distinction between what someone expresses outwardly and what they may actually feel internally. Structured Empathy treats signals as data, not conclusions.
 -	**Cognitive Generosity** - A disciplined willingness to assume competence, coherence, and good intent until evidence suggests otherwise. It creates psychological safety without being naïve.
--	**User Manual** An self-written document that explains how a person works, their preferences, triggers, strengths, expectations, and communication patterns. It reduces interpersonal guesswork by making the implicit explicit.
+-	**User Manual** A self-written document that explains how a person works, their preferences, triggers, strengths, expectations, and communication patterns. It reduces interpersonal guesswork by making the implicit explicit.
 -	**Collaboration Protocols** - Clear guidelines for how individuals or groups likes to coordinate, escalate issues, share updates, and resolve disagreements. They create predictable rhythms that reduce friction and ambiguity.
 -	**Strengths & Superpowers** - The capabilities a person consistently brings to a team such as technical, relational, or strategic skills. Naming them helps others know when to lean on or amplify those strengths.
 -	**Stress Indicators** - Observable behaviours that signal when someone is overloaded, frustrated, or under pressure. Including them in a User Manual helps teams intervene early and constructively.

@@ -7,9 +7,12 @@ This short guide is to help you contribute content for the Structured Empathy Fr
 
 For the **technical people** — the TL;DR is that everything lives in a public [GitHub repository](https://github.com/fortytwofold/Structured-Empathy-Framework) written in Markdown. Please note the guide rails in the primer below, but otherwise feel free to dive in and propose changes via Pull Requests.
 
-For the **non-technical people** - please don't be scared - this is actually really easy, you just need to understand two key aspects.
+For the **non-technical people** - please don't be scared - it is all very straightforward once you understand a couple of concepts and follow the instructions and guidance set out below.  **GitHub** is the tool that is used to host the Structured Empathy Framework.  Instructions for using it are set out below. **Markdown** is the notation that is used within GitHub to add formating to text.  The guidance in the 'Primer' below explains how this works. 
 
-Firstly - **GitHub**.  GitHub is the leading online tool for hosting and managing opensource. While it is massively used for Software, it is equally suited for managing frameworks such as this.  There are a view key concepts to learn:
+
+## Using GitHub
+
+GitHub is the leading online tool for hosting and managing opensource. While it is massively used for Software, it is equally suited for managing frameworks such as this.  There are a view key concepts to learn:
 
 ### Main Branch  
 Think of the **main** branch as the official, published version of the Framework — the “source of truth.”  
@@ -58,13 +61,11 @@ Pull requests create a safe, transparent space for discussion, feedback, and ref
 This workflow keeps everything safe, simple, and transparent — and it’s the standard approach used across open‑source communities.
 
 
-The second key aspect to understand is **Markdown**.  Markdown is very simply a way of adding simple symbols into plain text to define what is a heading, what should be in bold, and other basic formatting.  There is a 'Primer' below that explains this, but as you will see it is very simple and easy way of writing documentation and allowing it to be easily transformed into a website and other formats like PDFs.
-
 ## Markdown Primer for Contributors
 
 As described, the content for the framework uses 'Markdown', a simple and widely used plain‑text format. If you are not a techie, please don't panic - seriously this is easier than using a Word Processor!
 
-These Mardown pages and in turn automatically converted into the 'structuredempathy.net' website and thus clean, styled pages automatically. This also means the Mardown pages can be used for other mediums inclouding creating PDF files. Critically - this public repository is content‑only: our supporting infrastructure handles layout, styling, and link/image rewriting.
+These Markdown pages and in turn automatically converted into the 'structuredempathy.net' website and thus clean, styled pages automatically. This also means the Markdown pages can be used for other mediums inclouding creating PDF files. Critically - this public repository is content‑only: our supporting infrastructure handles layout, styling, and link/image rewriting.
 
 The following section describes how a Markdown page is created and formatted;  you can use this to either understand how to modify existing pages in the framework, or create whole new pages
 
