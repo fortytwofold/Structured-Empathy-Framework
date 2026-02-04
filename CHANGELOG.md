@@ -1,3 +1,10 @@
+## [0.8.3](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.8.2...v0.8.3) (2026-02-04)
+
+
+### Bug Fixes
+
+* Corrections and improvements by sgpease-lgtm ([6ca650c](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/6ca650ce7c39af55e0a7aeec2a075b3adc74b23d))
+
 ## [0.8.2](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.8.1...v0.8.2) (2026-02-02)
 
 
