@@ -1,3 +1,5 @@
+# [1.0.0](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.8.3...v1.0.0) (2026-02-05)
+
 ## [0.8.3](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.8.2...v0.8.3) (2026-02-04)
 
 
